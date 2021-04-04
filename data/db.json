@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Warri \"Your Real Dad\"",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper sit amet risus nullam eget felis. Scelerisque felis imperdiet proin fermentum. Venenatis tellus in metus vulputate. Eros donec ac odio tempor orci dapibus ultrices. Aenean et tortor at risus viverra adipiscing. Tristique senectus et netus et malesuada fames ac. Nam libero justo laoreet sit amet cursus sit amet dictum. Massa tincidunt nunc pulvinar sapien et ligula. Feugiat in ante metus dictum at tempor commodo ullamcorper. Non odio euismod lacinia at quis risus sed vulputate odio. In cursus turpis massa tincidunt dui ut ornare lectus sit. Vulputate enim nulla aliquet porttitor lacus luctus accumsan. Duis ut diam quam nulla. Metus dictum at tempor commodo ullamcorper a lacus vestibulum. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. In hendrerit gravida rutrum quisque. Auctor urna nunc id cursus. Diam vel quam elementum pulvinar etiam.",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
